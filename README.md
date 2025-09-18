@@ -11,7 +11,7 @@ Decrease risks by 10–15% by obtaining full analytical and regulatory data on t
 - Regulatory focus
 - Price 250–300K USD
 - Diversified employer base by top employers
-- Best srocing based on analytics on market fundamentals, housing market conditions, crime rate and any XFactors
+- Best scoring based on analytics on market fundamentals, housing market conditions, crime rate and any XFactors
 
 ## Input
 - City, State (for example: Lockhart, TX)
